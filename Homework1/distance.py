@@ -1,0 +1,5 @@
+xOne = float(input("Location x-coordinate? "))
+yOne = float(input("Location y-coordinate? "))
+xTwo = float(input("Classroom x-coordinate? "))
+yTwo = float(input("Classroom y-coordinate? "))
+print((((xTwo - xOne) ** 2) + (yTwo - yOne) ** 2) ** 0.5)

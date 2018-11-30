@@ -1,0 +1,33 @@
+1. What is your name (as it appears officially at Reed)?
+Casey Harris
+
+
+2. Is there anything we should know when addressing you?  (A nickname?)
+N/A
+
+
+3. What year are you in at Reed?
+Freshman
+
+
+4. What is your major?  If you don't know yet, what are you considering?
+(If you are interested in the Math/CS and CS majors, please let us know.)
+Considering a CS major
+
+
+5. Why are you taking this class?
+In preparation for the major and just to learn the fundamentals of coding and computer languages.
+
+
+6. Have you ever programmed before?  If so, how much? in what language(s)?
+I programmed in Java for a year during my high school senior year. (I worked in a program called Netbeans)
+
+
+7. What was the output when you ran test.py?
+8192
+
+
+8. Is there anything else we should know?
+N/A
+
+
